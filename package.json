@@ -1,14 +1,15 @@
 {
-  "name": "markdown-to-html-converter",
+  "name": "@fantazer/markdown-to-html-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Markdown to HTML converter",
   "main": "index.js",
+  "url": "git@github.com:FANTAZER-NURE/markdown-to-html-converter.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "fantazer",
+  "license": "MIT",
   "dependencies": {
     "marked": "^12.0.2"
   }
